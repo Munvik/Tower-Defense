@@ -1,5 +1,6 @@
 #pragma once
 #include "buffTower.hpp"
+#define TOWER
 
 class antennaTower :public buffTower
 {
